@@ -1,0 +1,16 @@
+C:\Users\Tania Pindo Ch\Documents\desarrollo de software\MiPrimerConsola\bin\Debug\net5.0\MiPrimerConsola.exe
+C:\Users\Tania Pindo Ch\Documents\desarrollo de software\MiPrimerConsola\bin\Debug\net5.0\MiPrimerConsola.deps.json
+C:\Users\Tania Pindo Ch\Documents\desarrollo de software\MiPrimerConsola\bin\Debug\net5.0\MiPrimerConsola.runtimeconfig.json
+C:\Users\Tania Pindo Ch\Documents\desarrollo de software\MiPrimerConsola\bin\Debug\net5.0\MiPrimerConsola.runtimeconfig.dev.json
+C:\Users\Tania Pindo Ch\Documents\desarrollo de software\MiPrimerConsola\bin\Debug\net5.0\MiPrimerConsola.dll
+C:\Users\Tania Pindo Ch\Documents\desarrollo de software\MiPrimerConsola\bin\Debug\net5.0\ref\MiPrimerConsola.dll
+C:\Users\Tania Pindo Ch\Documents\desarrollo de software\MiPrimerConsola\bin\Debug\net5.0\MiPrimerConsola.pdb
+C:\Users\Tania Pindo Ch\Documents\desarrollo de software\MiPrimerConsola\obj\Debug\net5.0\MiPrimerConsola.csproj.AssemblyReference.cache
+C:\Users\Tania Pindo Ch\Documents\desarrollo de software\MiPrimerConsola\obj\Debug\net5.0\MiPrimerConsola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tania Pindo Ch\Documents\desarrollo de software\MiPrimerConsola\obj\Debug\net5.0\MiPrimerConsola.AssemblyInfoInputs.cache
+C:\Users\Tania Pindo Ch\Documents\desarrollo de software\MiPrimerConsola\obj\Debug\net5.0\MiPrimerConsola.AssemblyInfo.cs
+C:\Users\Tania Pindo Ch\Documents\desarrollo de software\MiPrimerConsola\obj\Debug\net5.0\MiPrimerConsola.csproj.CoreCompileInputs.cache
+C:\Users\Tania Pindo Ch\Documents\desarrollo de software\MiPrimerConsola\obj\Debug\net5.0\MiPrimerConsola.dll
+C:\Users\Tania Pindo Ch\Documents\desarrollo de software\MiPrimerConsola\obj\Debug\net5.0\ref\MiPrimerConsola.dll
+C:\Users\Tania Pindo Ch\Documents\desarrollo de software\MiPrimerConsola\obj\Debug\net5.0\MiPrimerConsola.pdb
+C:\Users\Tania Pindo Ch\Documents\desarrollo de software\MiPrimerConsola\obj\Debug\net5.0\MiPrimerConsola.genruntimeconfig.cache
